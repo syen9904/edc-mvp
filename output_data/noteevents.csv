@@ -1,0 +1,4054 @@
+note_id,chart_date,category,text,subject_id
+1,2018-03-12,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2018-03-12
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 123.25 ng/mL
+- Total Bilirubin: 1.68 mg/dL
+- Creatinine: 0.99 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Hepatitis B (Well-controlled). Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000000
+2,2018-04-27,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2018-04-27
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000000
+3,2018-06-13,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2018-06-13
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000000
+4,2018-08-11,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2018-08-11
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000000
+5,2018-09-19,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2018-09-19
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 137.46 ng/mL
+- Total Bilirubin: 1.99 mg/dL
+- Creatinine: 0.96 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Hepatitis B (Well-controlled). Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000000
+6,2018-10-07,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2018-10-07
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 128.89 ng/mL
+- Total Bilirubin: 2.26 mg/dL
+- Creatinine: 0.83 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Hepatitis B (Well-controlled). Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000000
+7,2018-11-06,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2018-11-06
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000000
+8,2018-11-18,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2018-11-18
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 98.13 ng/mL
+- Total Bilirubin: 1.67 mg/dL
+- Creatinine: 0.75 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Hepatitis B (Well-controlled). Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000000
+9,2018-12-04,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2018-12-04
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 112.76 ng/mL
+- Total Bilirubin: 1.64 mg/dL
+- Creatinine: 0.73 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Hepatitis B (Well-controlled). Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000000
+10,2018-12-25,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2018-12-25
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000000
+11,2019-01-06,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2019-01-06
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000000
+12,2019-01-17,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2019-01-17
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 179.54 ng/mL
+- Total Bilirubin: 1.5 mg/dL
+- Creatinine: 0.89 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Hepatitis B (Well-controlled). Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000000
+13,2019-02-03,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2019-02-03
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000000
+14,2019-03-28,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2019-03-28
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000000
+15,2019-04-23,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2019-04-23
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 123.21 ng/mL
+- Total Bilirubin: 1.71 mg/dL
+- Creatinine: 0.99 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Hepatitis B (Well-controlled). Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000000
+16,2019-05-27,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2019-05-27
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 130.25 ng/mL
+- Total Bilirubin: 1.1 mg/dL
+- Creatinine: 1.02 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Hepatitis B (Well-controlled). Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000000
+17,2019-06-17,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2019-06-17
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 170.59 ng/mL
+- Total Bilirubin: 0.75 mg/dL
+- Creatinine: 1.04 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Hepatitis B (Well-controlled). Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000000
+18,2019-08-01,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2019-08-01
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 203.88 ng/mL
+- Total Bilirubin: 0.64 mg/dL
+- Creatinine: 0.96 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Hepatitis B (Well-controlled). Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000000
+19,2019-08-19,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2019-08-19
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000000
+20,2019-09-07,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2019-09-07
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 175.34 ng/mL
+- Total Bilirubin: 0.24 mg/dL
+- Creatinine: 1.08 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Hepatitis B (Well-controlled). Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000000
+21,2019-09-22,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2019-09-22
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000000
+22,2019-10-18,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2019-10-18
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000000
+23,2019-11-25,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2019-11-25
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 127.94 ng/mL
+- Total Bilirubin: 1.13 mg/dL
+- Creatinine: 1.04 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Hepatitis B (Well-controlled). Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000000
+24,2019-12-22,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2019-12-22
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 50.53 ng/mL
+- Total Bilirubin: 1.06 mg/dL
+- Creatinine: 0.93 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Hepatitis B (Well-controlled). Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000000
+25,2020-01-02,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2020-01-02
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 70.96 ng/mL
+- Total Bilirubin: 0.99 mg/dL
+- Creatinine: 0.86 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Hepatitis B (Well-controlled). Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000000
+26,2020-02-14,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2020-02-14
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 111.75 ng/mL
+- Total Bilirubin: 0.85 mg/dL
+- Creatinine: 0.65 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Hepatitis B (Well-controlled). Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000000
+27,2020-02-14,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2020-02-14
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000000
+28,2020-03-07,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2020-03-07
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000000
+29,2020-03-23,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2020-03-23
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 93.63 ng/mL
+- Total Bilirubin: 1.26 mg/dL
+- Creatinine: 0.88 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Hepatitis B (Well-controlled). Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000000
+30,2020-04-28,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2020-04-28
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000000
+31,2020-06-18,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2020-06-18
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 89.61 ng/mL
+- Total Bilirubin: 1.22 mg/dL
+- Creatinine: 1.3 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Hepatitis B (Well-controlled). Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000000
+32,2020-07-21,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2020-07-21
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 75.39 ng/mL
+- Total Bilirubin: 0.82 mg/dL
+- Creatinine: 1.34 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Hepatitis B (Well-controlled). Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000000
+33,2020-08-28,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2020-08-28
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000000
+34,2020-09-21,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2020-09-21
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 60.38 ng/mL
+- Total Bilirubin: 0.99 mg/dL
+- Creatinine: 1.39 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Hepatitis B (Well-controlled). Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000000
+35,2020-10-07,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2020-10-07
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 78.0 ng/mL
+- Total Bilirubin: 1.11 mg/dL
+- Creatinine: 1.49 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Hepatitis B (Well-controlled). Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000000
+36,2020-11-18,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2020-11-18
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000000
+37,2020-12-21,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2020-12-21
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000000
+38,2021-01-17,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2021-01-17
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 57.91 ng/mL
+- Total Bilirubin: 0.52 mg/dL
+- Creatinine: 1.57 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Hepatitis B (Well-controlled). Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000000
+39,2021-05-16,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2021-05-16
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 23.32 ng/mL
+- Total Bilirubin: 0.42 mg/dL
+- Creatinine: 1.44 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Hepatitis B (Well-controlled). Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000000
+40,2021-06-22,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2021-06-22
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 24.16 ng/mL
+- Total Bilirubin: 0.77 mg/dL
+- Creatinine: 1.51 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Hepatitis B (Well-controlled). Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000000
+41,2021-07-14,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2021-07-14
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000000
+42,2021-09-07,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2021-09-07
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000000
+43,2021-09-20,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2021-09-20
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: -14.32 ng/mL
+- Total Bilirubin: 1.83 mg/dL
+- Creatinine: 1.37 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Hepatitis B (Well-controlled). Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000000
+44,2021-10-10,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2021-10-10
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: -38.91 ng/mL
+- Total Bilirubin: 2.03 mg/dL
+- Creatinine: 1.3 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Hepatitis B (Well-controlled). Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000000
+45,2021-10-19,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2021-10-19
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000000
+46,2021-12-22,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2021-12-22
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: -96.62 ng/mL
+- Total Bilirubin: 1.79 mg/dL
+- Creatinine: 0.79 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Hepatitis B (Well-controlled). Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000000
+47,2022-01-20,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2022-01-20
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: -17.71 ng/mL
+- Total Bilirubin: 2.19 mg/dL
+- Creatinine: 0.81 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Hepatitis B (Well-controlled). Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000000
+48,2022-04-28,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2022-04-28
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: -49.26 ng/mL
+- Total Bilirubin: 1.92 mg/dL
+- Creatinine: 0.49 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Hepatitis B (Well-controlled). Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000000
+49,2022-05-13,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2022-05-13
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: -28.31 ng/mL
+- Total Bilirubin: 1.48 mg/dL
+- Creatinine: 0.4 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Hepatitis B (Well-controlled). Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000000
+50,2022-06-09,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2022-06-09
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000000
+51,2022-08-14,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2022-08-14
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 62.2 ng/mL
+- Total Bilirubin: 1.58 mg/dL
+- Creatinine: 0.35 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Hepatitis B (Well-controlled). Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000000
+52,2022-08-22,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2022-08-22
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000000
+53,2022-09-12,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2022-09-12
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 63.82 ng/mL
+- Total Bilirubin: 1.23 mg/dL
+- Creatinine: 0.42 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Hepatitis B (Well-controlled). Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000000
+54,2022-10-12,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2022-10-12
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 35.88 ng/mL
+- Total Bilirubin: 1.15 mg/dL
+- Creatinine: 0.53 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Hepatitis B (Well-controlled). Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000000
+55,2022-10-25,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2022-10-25
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000000
+56,2022-11-16,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2022-11-16
+PATIENT: HCC_Ideal_Candidate_for_TATE_Trial
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 25.8 ng/mL
+- Total Bilirubin: 1.21 mg/dL
+- Creatinine: 0.56 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Hepatitis B (Well-controlled). Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000000
+1,2018-02-04,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2018-02-04
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000001
+2,2018-03-01,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2018-03-01
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000001
+3,2018-03-17,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2018-03-17
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 90.17 ng/mL
+- Total Bilirubin: 1.1 mg/dL
+- Creatinine: 0.64 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7 with Esophageal Varices. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000001
+4,2018-05-05,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2018-05-05
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000001
+5,2018-06-09,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2018-06-09
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 136.12 ng/mL
+- Total Bilirubin: 1.16 mg/dL
+- Creatinine: 0.3 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7 with Esophageal Varices. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000001
+6,2018-07-15,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2018-07-15
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 129.41 ng/mL
+- Total Bilirubin: 1.11 mg/dL
+- Creatinine: 0.31 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7 with Esophageal Varices. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000001
+7,2018-08-13,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2018-08-13
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 125.17 ng/mL
+- Total Bilirubin: 1.37 mg/dL
+- Creatinine: 0.35 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7 with Esophageal Varices. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000001
+8,2018-10-05,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2018-10-05
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 143.87 ng/mL
+- Total Bilirubin: 1.81 mg/dL
+- Creatinine: 0.44 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7 with Esophageal Varices. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000001
+9,2018-10-14,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2018-10-14
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000001
+10,2018-12-16,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2018-12-16
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 123.1 ng/mL
+- Total Bilirubin: 1.1 mg/dL
+- Creatinine: 0.46 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7 with Esophageal Varices. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000001
+11,2019-01-12,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2019-01-12
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 109.38 ng/mL
+- Total Bilirubin: 1.22 mg/dL
+- Creatinine: 0.4 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7 with Esophageal Varices. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000001
+12,2019-01-15,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2019-01-15
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000001
+13,2019-02-13,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2019-02-13
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000001
+14,2019-02-20,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2019-02-20
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 98.82 ng/mL
+- Total Bilirubin: 1.18 mg/dL
+- Creatinine: 0.4 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7 with Esophageal Varices. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000001
+15,2019-03-04,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2019-03-04
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 98.88 ng/mL
+- Total Bilirubin: 1.27 mg/dL
+- Creatinine: 0.41 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7 with Esophageal Varices. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000001
+16,2019-05-27,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2019-05-27
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 130.89 ng/mL
+- Total Bilirubin: 1.55 mg/dL
+- Creatinine: 0.34 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7 with Esophageal Varices. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000001
+17,2019-06-01,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2019-06-01
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000001
+18,2019-06-13,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2019-06-13
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 145.74 ng/mL
+- Total Bilirubin: 1.26 mg/dL
+- Creatinine: 0.31 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7 with Esophageal Varices. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000001
+19,2019-08-15,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2019-08-15
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000001
+20,2019-08-25,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2019-08-25
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 151.81 ng/mL
+- Total Bilirubin: 1.22 mg/dL
+- Creatinine: 0.57 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7 with Esophageal Varices. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000001
+21,2019-09-13,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2019-09-13
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 160.68 ng/mL
+- Total Bilirubin: 1.26 mg/dL
+- Creatinine: 0.53 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7 with Esophageal Varices. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000001
+22,2019-10-04,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2019-10-04
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 189.46 ng/mL
+- Total Bilirubin: 1.22 mg/dL
+- Creatinine: 0.6 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7 with Esophageal Varices. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000001
+23,2019-10-11,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2019-10-11
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000001
+24,2019-11-02,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2019-11-02
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000001
+25,2020-01-04,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2020-01-04
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000001
+26,2020-01-08,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2020-01-08
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 186.29 ng/mL
+- Total Bilirubin: 1.6 mg/dL
+- Creatinine: 0.51 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7 with Esophageal Varices. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000001
+27,2020-02-11,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2020-02-11
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 149.48 ng/mL
+- Total Bilirubin: 1.26 mg/dL
+- Creatinine: 0.5 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7 with Esophageal Varices. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000001
+28,2020-02-23,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2020-02-23
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000001
+29,2020-03-01,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2020-03-01
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000001
+30,2020-03-17,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2020-03-17
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 152.24 ng/mL
+- Total Bilirubin: 1.32 mg/dL
+- Creatinine: 0.4 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7 with Esophageal Varices. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000001
+31,2020-05-18,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2020-05-18
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000001
+32,2020-07-23,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2020-07-23
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 197.35 ng/mL
+- Total Bilirubin: 1.23 mg/dL
+- Creatinine: 0.67 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7 with Esophageal Varices. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000001
+33,2020-09-28,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2020-09-28
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000001
+34,2020-11-14,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2020-11-14
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000001
+35,2020-11-25,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2020-11-25
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 203.98 ng/mL
+- Total Bilirubin: 0.85 mg/dL
+- Creatinine: 0.69 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7 with Esophageal Varices. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000001
+36,2020-12-24,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2020-12-24
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000001
+37,2021-01-10,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2021-01-10
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 234.06 ng/mL
+- Total Bilirubin: 0.75 mg/dL
+- Creatinine: 0.76 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7 with Esophageal Varices. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000001
+38,2021-05-17,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2021-05-17
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000001
+39,2021-05-21,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2021-05-21
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 281.88 ng/mL
+- Total Bilirubin: 0.6 mg/dL
+- Creatinine: 0.92 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7 with Esophageal Varices. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000001
+40,2021-07-13,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2021-07-13
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 253.05 ng/mL
+- Total Bilirubin: 0.78 mg/dL
+- Creatinine: 0.96 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7 with Esophageal Varices. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000001
+41,2021-11-21,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2021-11-21
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 193.27 ng/mL
+- Total Bilirubin: 0.95 mg/dL
+- Creatinine: 0.77 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7 with Esophageal Varices. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000001
+42,2021-12-13,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2021-12-13
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 191.34 ng/mL
+- Total Bilirubin: 0.92 mg/dL
+- Creatinine: 0.78 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7 with Esophageal Varices. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000001
+43,2022-03-04,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2022-03-04
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 179.33 ng/mL
+- Total Bilirubin: 0.44 mg/dL
+- Creatinine: 0.81 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7 with Esophageal Varices. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000001
+44,2022-05-25,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2022-05-25
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 115.23 ng/mL
+- Total Bilirubin: 0.46 mg/dL
+- Creatinine: 0.94 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7 with Esophageal Varices. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000001
+45,2022-08-23,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2022-08-23
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 117.92 ng/mL
+- Total Bilirubin: 0.69 mg/dL
+- Creatinine: 0.79 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7 with Esophageal Varices. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000001
+46,2022-10-25,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2022-10-25
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 95.86 ng/mL
+- Total Bilirubin: 0.53 mg/dL
+- Creatinine: 0.87 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7 with Esophageal Varices. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000001
+47,2022-11-18,Discharge Summary,"**Discharge Summary**
+
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+ADMISSION DATE: 2022-11-14
+DISCHARGE DATE: 2022-11-18
+
+ADMISSION DIAGNOSIS:
+1. Upper GI Bleed secondary to Esophageal Varices
+
+HOSPITAL COURSE:
+The patient was admitted with hematemesis. EGD was performed which showed grade III esophageal varices with active bleeding. Successful band ligation was performed. Patient was stabilized with IV octreotide and blood transfusions. Remained hemodynamically stable post-procedure.
+
+DISCHARGE DIAGNOSIS:
+1. Resolved Upper GI Bleed
+2. Esophageal Varices
+3. Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7 with Esophageal Varices
+
+PLAN:
+1. Start Nadolol for primary prophylaxis.
+2. Follow up in GI clinic in 2 weeks.
+3. Continue HCC surveillance as outpatient.
+",10000001
+48,2022-12-28,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2022-12-28
+PATIENT: HCC_Candidate_Excluded_by_Recent_GI_Bleed
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 83.49 ng/mL
+- Total Bilirubin: 0.84 mg/dL
+- Creatinine: 0.79 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7 with Esophageal Varices. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000001
+1,2018-01-10,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2018-01-10
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 173.75 ng/mL
+- Total Bilirubin: 1.47 mg/dL
+- Creatinine: 2.38 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Kidney Disease, Stage 4. Currently stable from an oncologic perspective.
+Renal function is notably elevated, a concern for trial eligibility.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000002
+2,2018-02-06,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2018-02-06
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 203.09 ng/mL
+- Total Bilirubin: 1.23 mg/dL
+- Creatinine: 2.45 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Kidney Disease, Stage 4. Currently stable from an oncologic perspective.
+Renal function is notably elevated, a concern for trial eligibility.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000002
+3,2018-03-18,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2018-03-18
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 240.35 ng/mL
+- Total Bilirubin: 1.48 mg/dL
+- Creatinine: 2.53 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Kidney Disease, Stage 4. Currently stable from an oncologic perspective.
+Renal function is notably elevated, a concern for trial eligibility.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000002
+4,2018-04-04,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2018-04-04
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 245.89 ng/mL
+- Total Bilirubin: 1.32 mg/dL
+- Creatinine: 2.43 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Kidney Disease, Stage 4. Currently stable from an oncologic perspective.
+Renal function is notably elevated, a concern for trial eligibility.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000002
+5,2018-05-09,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2018-05-09
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000002
+6,2018-08-08,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2018-08-08
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 208.03 ng/mL
+- Total Bilirubin: 1.24 mg/dL
+- Creatinine: 2.38 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Kidney Disease, Stage 4. Currently stable from an oncologic perspective.
+Renal function is notably elevated, a concern for trial eligibility.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000002
+7,2018-10-14,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2018-10-14
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000002
+8,2018-11-11,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2018-11-11
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 267.1 ng/mL
+- Total Bilirubin: 0.91 mg/dL
+- Creatinine: 2.12 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Kidney Disease, Stage 4. Currently stable from an oncologic perspective.
+Renal function is notably elevated, a concern for trial eligibility.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000002
+9,2018-12-18,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2018-12-18
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000002
+10,2019-01-27,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2019-01-27
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000002
+11,2019-02-12,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2019-02-12
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 223.25 ng/mL
+- Total Bilirubin: 0.78 mg/dL
+- Creatinine: 2.32 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Kidney Disease, Stage 4. Currently stable from an oncologic perspective.
+Renal function is notably elevated, a concern for trial eligibility.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000002
+12,2019-03-20,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2019-03-20
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000002
+13,2019-04-16,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2019-04-16
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000002
+14,2019-05-15,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2019-05-15
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 230.55 ng/mL
+- Total Bilirubin: 0.58 mg/dL
+- Creatinine: 2.75 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Kidney Disease, Stage 4. Currently stable from an oncologic perspective.
+Renal function is notably elevated, a concern for trial eligibility.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000002
+15,2019-06-21,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2019-06-21
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 213.54 ng/mL
+- Total Bilirubin: 0.76 mg/dL
+- Creatinine: 2.86 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Kidney Disease, Stage 4. Currently stable from an oncologic perspective.
+Renal function is notably elevated, a concern for trial eligibility.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000002
+16,2019-06-21,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2019-06-21
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000002
+17,2019-07-07,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2019-07-07
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 169.99 ng/mL
+- Total Bilirubin: 0.8 mg/dL
+- Creatinine: 3.07 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Kidney Disease, Stage 4. Currently stable from an oncologic perspective.
+Renal function is notably elevated, a concern for trial eligibility.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000002
+18,2019-09-18,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2019-09-18
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 186.04 ng/mL
+- Total Bilirubin: 1.12 mg/dL
+- Creatinine: 3.11 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Kidney Disease, Stage 4. Currently stable from an oncologic perspective.
+Renal function is notably elevated, a concern for trial eligibility.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000002
+19,2019-10-02,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2019-10-02
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000002
+20,2019-11-17,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2019-11-17
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000002
+21,2020-02-20,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2020-02-20
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 181.93 ng/mL
+- Total Bilirubin: 1.13 mg/dL
+- Creatinine: 3.22 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Kidney Disease, Stage 4. Currently stable from an oncologic perspective.
+Renal function is notably elevated, a concern for trial eligibility.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000002
+22,2020-03-17,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2020-03-17
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 127.0 ng/mL
+- Total Bilirubin: 1.12 mg/dL
+- Creatinine: 3.18 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Kidney Disease, Stage 4. Currently stable from an oncologic perspective.
+Renal function is notably elevated, a concern for trial eligibility.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000002
+23,2020-04-23,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2020-04-23
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 159.89 ng/mL
+- Total Bilirubin: 1.15 mg/dL
+- Creatinine: 3.34 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Kidney Disease, Stage 4. Currently stable from an oncologic perspective.
+Renal function is notably elevated, a concern for trial eligibility.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000002
+24,2020-05-11,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2020-05-11
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 194.31 ng/mL
+- Total Bilirubin: 1.11 mg/dL
+- Creatinine: 3.41 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Kidney Disease, Stage 4. Currently stable from an oncologic perspective.
+Renal function is notably elevated, a concern for trial eligibility.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000002
+25,2020-06-12,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2020-06-12
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000002
+26,2020-07-03,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2020-07-03
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 177.46 ng/mL
+- Total Bilirubin: 1.16 mg/dL
+- Creatinine: 3.39 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Kidney Disease, Stage 4. Currently stable from an oncologic perspective.
+Renal function is notably elevated, a concern for trial eligibility.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000002
+27,2020-07-16,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2020-07-16
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000002
+28,2020-09-12,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2020-09-12
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000002
+29,2020-12-02,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2020-12-02
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 200.1 ng/mL
+- Total Bilirubin: 1.65 mg/dL
+- Creatinine: 2.73 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Kidney Disease, Stage 4. Currently stable from an oncologic perspective.
+Renal function is notably elevated, a concern for trial eligibility.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000002
+30,2021-01-12,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2021-01-12
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000002
+31,2021-02-03,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2021-02-03
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 260.44 ng/mL
+- Total Bilirubin: 1.86 mg/dL
+- Creatinine: 2.4 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Kidney Disease, Stage 4. Currently stable from an oncologic perspective.
+Renal function is notably elevated, a concern for trial eligibility.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000002
+32,2021-05-06,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2021-05-06
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 316.49 ng/mL
+- Total Bilirubin: 2.0 mg/dL
+- Creatinine: 2.2 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Kidney Disease, Stage 4. Currently stable from an oncologic perspective.
+Renal function is notably elevated, a concern for trial eligibility.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000002
+33,2021-05-19,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2021-05-19
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000002
+34,2021-06-02,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2021-06-02
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000002
+35,2021-08-03,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2021-08-03
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000002
+36,2021-09-18,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2021-09-18
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 471.13 ng/mL
+- Total Bilirubin: 2.03 mg/dL
+- Creatinine: 2.59 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Kidney Disease, Stage 4. Currently stable from an oncologic perspective.
+Renal function is notably elevated, a concern for trial eligibility.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000002
+37,2021-10-07,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2021-10-07
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 487.4 ng/mL
+- Total Bilirubin: 2.15 mg/dL
+- Creatinine: 2.38 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Kidney Disease, Stage 4. Currently stable from an oncologic perspective.
+Renal function is notably elevated, a concern for trial eligibility.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000002
+38,2021-11-10,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2021-11-10
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000002
+39,2021-12-27,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2021-12-27
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 526.86 ng/mL
+- Total Bilirubin: 1.72 mg/dL
+- Creatinine: 3.0 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Kidney Disease, Stage 4. Currently stable from an oncologic perspective.
+Renal function is notably elevated, a concern for trial eligibility.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000002
+40,2022-01-05,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2022-01-05
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000002
+41,2022-02-28,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2022-02-28
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 500.19 ng/mL
+- Total Bilirubin: 1.7 mg/dL
+- Creatinine: 3.14 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Kidney Disease, Stage 4. Currently stable from an oncologic perspective.
+Renal function is notably elevated, a concern for trial eligibility.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000002
+42,2022-03-21,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2022-03-21
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000002
+43,2022-03-26,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2022-03-26
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 467.18 ng/mL
+- Total Bilirubin: 1.6 mg/dL
+- Creatinine: 3.34 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Kidney Disease, Stage 4. Currently stable from an oncologic perspective.
+Renal function is notably elevated, a concern for trial eligibility.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000002
+44,2022-05-03,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2022-05-03
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 462.9 ng/mL
+- Total Bilirubin: 1.34 mg/dL
+- Creatinine: 3.34 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh B7, Chronic Kidney Disease, Stage 4. Currently stable from an oncologic perspective.
+Renal function is notably elevated, a concern for trial eligibility.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000002
+45,2022-05-10,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2022-05-10
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000002
+46,2022-06-02,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2022-06-02
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000002
+47,2022-07-16,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2022-07-16
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000002
+48,2022-08-22,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2022-08-22
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000002
+49,2022-12-14,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2022-12-14
+PATIENT: HCC_Candidate_Excluded_by_Renal_Failure
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000002
+1,2018-01-02,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2018-01-02
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 90.64 ng/mL
+- Total Bilirubin: 0.84 mg/dL
+- Creatinine: 1.02 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh A, Severe COPD requiring intermittent home oxygen. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000003
+2,2018-02-15,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2018-02-15
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 116.27 ng/mL
+- Total Bilirubin: 0.87 mg/dL
+- Creatinine: 1.17 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh A, Severe COPD requiring intermittent home oxygen. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000003
+3,2018-03-08,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2018-03-08
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000003
+4,2018-04-16,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2018-04-16
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 66.74 ng/mL
+- Total Bilirubin: 0.73 mg/dL
+- Creatinine: 1.23 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh A, Severe COPD requiring intermittent home oxygen. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000003
+5,2018-05-15,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2018-05-15
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 69.0 ng/mL
+- Total Bilirubin: 0.66 mg/dL
+- Creatinine: 1.33 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh A, Severe COPD requiring intermittent home oxygen. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000003
+6,2018-06-08,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2018-06-08
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000003
+7,2018-06-13,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2018-06-13
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 56.4 ng/mL
+- Total Bilirubin: 0.63 mg/dL
+- Creatinine: 1.42 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh A, Severe COPD requiring intermittent home oxygen. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000003
+8,2018-08-17,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2018-08-17
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000003
+9,2018-09-06,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2018-09-06
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000003
+10,2018-10-24,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2018-10-24
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 6.15 ng/mL
+- Total Bilirubin: 0.75 mg/dL
+- Creatinine: 1.54 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh A, Severe COPD requiring intermittent home oxygen. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000003
+11,2018-11-04,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2018-11-04
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 46.17 ng/mL
+- Total Bilirubin: 0.7 mg/dL
+- Creatinine: 1.6 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh A, Severe COPD requiring intermittent home oxygen. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000003
+12,2018-11-08,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2018-11-08
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000003
+13,2018-12-03,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2018-12-03
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000003
+14,2019-02-05,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2019-02-05
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000003
+15,2019-06-10,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2019-06-10
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 176.04 ng/mL
+- Total Bilirubin: 0.89 mg/dL
+- Creatinine: 1.76 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh A, Severe COPD requiring intermittent home oxygen. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000003
+16,2019-08-06,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2019-08-06
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 164.09 ng/mL
+- Total Bilirubin: 0.98 mg/dL
+- Creatinine: 1.77 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh A, Severe COPD requiring intermittent home oxygen. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000003
+17,2019-10-05,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2019-10-05
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 173.43 ng/mL
+- Total Bilirubin: 1.13 mg/dL
+- Creatinine: 1.82 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh A, Severe COPD requiring intermittent home oxygen. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000003
+18,2020-01-09,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2020-01-09
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 130.91 ng/mL
+- Total Bilirubin: 1.3 mg/dL
+- Creatinine: 1.68 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh A, Severe COPD requiring intermittent home oxygen. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000003
+19,2020-02-14,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2020-02-14
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 140.86 ng/mL
+- Total Bilirubin: 1.14 mg/dL
+- Creatinine: 1.72 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh A, Severe COPD requiring intermittent home oxygen. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000003
+20,2020-04-26,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2020-04-26
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 138.02 ng/mL
+- Total Bilirubin: 1.41 mg/dL
+- Creatinine: 1.85 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh A, Severe COPD requiring intermittent home oxygen. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000003
+21,2020-05-08,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2020-05-08
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 117.4 ng/mL
+- Total Bilirubin: 1.52 mg/dL
+- Creatinine: 1.81 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh A, Severe COPD requiring intermittent home oxygen. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000003
+22,2020-06-22,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2020-06-22
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 96.03 ng/mL
+- Total Bilirubin: 1.64 mg/dL
+- Creatinine: 1.94 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh A, Severe COPD requiring intermittent home oxygen. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000003
+23,2020-07-15,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2020-07-15
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 108.96 ng/mL
+- Total Bilirubin: 1.56 mg/dL
+- Creatinine: 1.88 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh A, Severe COPD requiring intermittent home oxygen. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000003
+24,2020-08-21,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2020-08-21
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 105.49 ng/mL
+- Total Bilirubin: 1.63 mg/dL
+- Creatinine: 1.78 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh A, Severe COPD requiring intermittent home oxygen. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000003
+25,2020-09-01,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2020-09-01
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 111.22 ng/mL
+- Total Bilirubin: 1.61 mg/dL
+- Creatinine: 1.74 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh A, Severe COPD requiring intermittent home oxygen. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000003
+26,2020-10-12,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2020-10-12
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 112.03 ng/mL
+- Total Bilirubin: 1.72 mg/dL
+- Creatinine: 1.85 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh A, Severe COPD requiring intermittent home oxygen. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000003
+27,2020-11-15,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2020-11-15
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000003
+28,2021-02-19,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2021-02-19
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 137.86 ng/mL
+- Total Bilirubin: 1.66 mg/dL
+- Creatinine: 1.53 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh A, Severe COPD requiring intermittent home oxygen. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000003
+29,2021-03-23,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2021-03-23
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 131.14 ng/mL
+- Total Bilirubin: 1.63 mg/dL
+- Creatinine: 1.47 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh A, Severe COPD requiring intermittent home oxygen. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000003
+30,2021-04-26,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2021-04-26
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000003
+31,2021-06-22,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2021-06-22
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 81.16 ng/mL
+- Total Bilirubin: 1.95 mg/dL
+- Creatinine: 1.57 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh A, Severe COPD requiring intermittent home oxygen. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000003
+32,2021-08-27,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2021-08-27
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000003
+33,2021-08-28,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2021-08-28
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 86.87 ng/mL
+- Total Bilirubin: 2.17 mg/dL
+- Creatinine: 1.58 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh A, Severe COPD requiring intermittent home oxygen. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000003
+34,2022-01-22,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2022-01-22
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 120.32 ng/mL
+- Total Bilirubin: 2.44 mg/dL
+- Creatinine: 1.89 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh A, Severe COPD requiring intermittent home oxygen. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000003
+35,2022-03-23,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2022-03-23
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 139.39 ng/mL
+- Total Bilirubin: 2.54 mg/dL
+- Creatinine: 2.05 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh A, Severe COPD requiring intermittent home oxygen. Currently stable from an oncologic perspective.
+Renal function is notably elevated, a concern for trial eligibility.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000003
+36,2022-04-27,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2022-04-27
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000003
+37,2022-05-04,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2022-05-04
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 141.38 ng/mL
+- Total Bilirubin: 2.63 mg/dL
+- Creatinine: 1.91 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh A, Severe COPD requiring intermittent home oxygen. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000003
+38,2022-05-27,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2022-05-27
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000003
+39,2022-06-10,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2022-06-10
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 132.46 ng/mL
+- Total Bilirubin: 2.7 mg/dL
+- Creatinine: 1.78 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh A, Severe COPD requiring intermittent home oxygen. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000003
+40,2022-09-28,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2022-09-28
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 152.3 ng/mL
+- Total Bilirubin: 2.8 mg/dL
+- Creatinine: 1.48 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh A, Severe COPD requiring intermittent home oxygen. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000003
+41,2022-10-07,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2022-10-07
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000003
+42,2022-10-23,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2022-10-23
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 140.41 ng/mL
+- Total Bilirubin: 3.05 mg/dL
+- Creatinine: 1.48 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh A, Severe COPD requiring intermittent home oxygen. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000003
+43,2022-11-21,Radiology Report,"**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: 2022-11-21
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a [not applicable for this patient] cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known [not applicable for this patient] cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.
+",10000003
+44,2022-12-25,Oncology Clinic Note,"**Oncology Clinic Progress Note**
+
+DATE: 2022-12-25
+PATIENT: HCC_Candidate_Excluded_by_Hypoxia
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: 164.99 ng/mL
+- Total Bilirubin: 3.34 mg/dL
+- Creatinine: 1.48 mg/dL
+
+ASSESSMENT:
+Patient with Hepatocellular Carcinoma (HCC), BCLC Stage B, Liver Cirrhosis, Child-Pugh A, Severe COPD requiring intermittent home oxygen. Currently stable from an oncologic perspective.
+Renal function is stable.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.
+",10000003

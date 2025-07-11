@@ -1,0 +1,38 @@
+name: "HCC_Candidate_Excluded_by_Hypoxia"
+description: "A 75-year-old male, long-term smoker with severe COPD. His HCC is suitable, but his low baseline oxygen saturation makes him ineligible."
+
+demographics:
+  anchor_age: 75
+  gender: "Male"
+
+chronic_conditions:
+  - "Hepatocellular Carcinoma (HCC), BCLC Stage B"
+  - "Liver Cirrhosis, Child-Pugh A" # Good liver function to create contrast
+  - "Severe COPD requiring intermittent home oxygen" # The reason for exclusion
+
+health_parameters:
+  alpha_fetoprotein:
+    baseline: 80
+    volatility: 20
+  creatinine:
+    baseline: 1.0
+    volatility: 0.1
+  o2_saturation_room_air:
+    baseline: 90 # CRITICAL: This value is < 92%, triggering exclusion
+    volatility: 1.5
+  bilirubin_total:
+    baseline: 0.8
+    volatility: 0.1
+
+trial_specific_criteria:
+  ecog_performance_status: 1
+  unsuitable_for_surgery_or_rfa: true
+  embolization_naive: true
+  has_measurable_tumor_on_mri: true
+  history_of_major_gi_bleed_last_2_months: false
+
+event_probabilities_per_month:
+  oncology_clinic_visit: 0.5
+  pulmonology_clinic_visit: 0.33 # Add pulmonology visits
+  lab_test_liver_panel: 0.5
+  imaging_mri_abdomen: 0.33

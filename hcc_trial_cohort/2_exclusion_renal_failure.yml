@@ -1,0 +1,38 @@
+name: "HCC_Candidate_Excluded_by_Renal_Failure"
+description: "A 72-year-old female with otherwise suitable HCC, but with pre-existing chronic kidney disease leading to a creatinine level that violates the exclusion criteria."
+
+demographics:
+  anchor_age: 72
+  gender: "Female"
+
+chronic_conditions:
+  - "Hepatocellular Carcinoma (HCC), BCLC Stage B"
+  - "Liver Cirrhosis, Child-Pugh B7"
+  - "Chronic Kidney Disease, Stage 4" # The reason for exclusion
+
+health_parameters:
+  alpha_fetoprotein:
+    baseline: 200
+    volatility: 40
+  creatinine:
+    baseline: 2.5 # CRITICAL: This value is > 2.0, triggering exclusion
+    volatility: 0.2
+  o2_saturation_room_air:
+    baseline: 96
+    volatility: 1
+  bilirubin_total:
+    baseline: 1.4
+    volatility: 0.2
+
+trial_specific_criteria:
+  ecog_performance_status: 1
+  unsuitable_for_surgery_or_rfa: true
+  embolization_naive: true
+  has_measurable_tumor_on_mri: true
+  history_of_major_gi_bleed_last_2_months: false
+
+event_probabilities_per_month:
+  oncology_clinic_visit: 0.5
+  nephrology_consult: 0.2 # Add nephrology consults to make the story more real
+  lab_test_liver_panel: 0.5
+  imaging_mri_abdomen: 0.33

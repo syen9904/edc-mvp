@@ -1,0 +1,13 @@
+**Radiology Report: MRI Abdomen w/wo Contrast**
+
+EXAM DATE: {date}
+PATIENT: {patient_name}
+
+REASON FOR EXAM: Surveillance of hepatocellular carcinoma.
+
+FINDINGS:
+The liver demonstrates a cirrhotic morphology. There is a {measured_tumor_size_cm} cm arterially enhancing lesion in segment 6 with washout on delayed phases, consistent with known HCC. No evidence of major vascular invasion. No new suspicious lesions are identified.
+
+IMPRESSION:
+1. Stable appearance of the known {measured_tumor_size_cm} cm HCC in segment 6.
+2. No evidence of new disease or metastatic spread.

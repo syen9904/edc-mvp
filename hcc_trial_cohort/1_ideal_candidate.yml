@@ -1,0 +1,39 @@
+name: "HCC_Ideal_Candidate_for_TATE_Trial"
+description: "A 68-year-old male with intermediate-stage, embolization-naive HCC. Child-Pugh B7, ECOG 1, and adequate organ function. The perfect candidate for the trial."
+
+demographics:
+  anchor_age: 68
+  gender: "Male"
+
+chronic_conditions:
+  - "Hepatocellular Carcinoma (HCC), BCLC Stage B"
+  - "Liver Cirrhosis, Child-Pugh B7"
+  - "Chronic Hepatitis B (Well-controlled)"
+
+# Health parameters are set to be within acceptable trial limits
+health_parameters:
+  alpha_fetoprotein:
+    baseline: 150
+    volatility: 30
+  creatinine:
+    baseline: 1.1 # Well below the 2.0 exclusion limit
+    volatility: 0.1
+  o2_saturation_room_air:
+    baseline: 97 # Well above the 92% exclusion limit
+    volatility: 1
+  bilirubin_total:
+    baseline: 1.5 # Consistent with Child-Pugh B7
+    volatility: 0.3
+
+# Explicitly state trial-specific criteria for clarity
+trial_specific_criteria:
+  ecog_performance_status: 1
+  unsuitable_for_surgery_or_rfa: true
+  embolization_naive: true
+  has_measurable_tumor_on_mri: true
+  history_of_major_gi_bleed_last_2_months: false
+
+event_probabilities_per_month:
+  oncology_clinic_visit: 0.5
+  lab_test_liver_panel: 0.5
+  imaging_mri_abdomen: 0.33

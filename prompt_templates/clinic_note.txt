@@ -1,0 +1,24 @@
+**Oncology Clinic Progress Note**
+
+DATE: {date}
+PATIENT: {patient_name}
+
+SUBJECTIVE:
+Patient seen in clinic for routine follow-up of HCC. Reports stable energy levels. Denies new abdominal pain, fever, or chills.
+
+OBJECTIVE:
+Vitals stable. Exam unremarkable.
+Today's Labs:
+- AFP: {measured_alpha_fetoprotein} ng/mL
+- Total Bilirubin: {measured_bilirubin_total} mg/dL
+- Creatinine: {measured_creatinine} mg/dL
+
+ASSESSMENT:
+Patient with {chronic_conditions}. Currently stable from an oncologic perspective.
+Renal function is {renal_function_text}.
+
+PLAN:
+1. Continue current management.
+2. Discussed eligibility for TATE vs TACE clinical trial.
+3. Follow-up in 2 months with repeat labs.
+4. MRI abdomen scheduled next month to monitor tumor status.

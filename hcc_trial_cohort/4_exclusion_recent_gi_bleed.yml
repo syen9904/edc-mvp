@@ -1,0 +1,31 @@
+name: "HCC_Candidate_Excluded_by_Recent_GI_Bleed"
+description: "A 65-year-old female who would have been a perfect candidate, but was hospitalized for a major variceal bleed just one month ago."
+
+demographics:
+  anchor_age: 65
+  gender: "Female"
+
+chronic_conditions:
+  - "Hepatocellular Carcinoma (HCC), BCLC Stage B"
+  - "Liver Cirrhosis, Child-Pugh B7 with Esophageal Varices"
+
+health_parameters:
+  # Parameters are otherwise perfect
+  alpha_fetoprotein: { baseline: 120, volatility: 25 }
+  creatinine: { baseline: 0.9, volatility: 0.1 }
+  o2_saturation_room_air: { baseline: 98, volatility: 1 }
+  bilirubin_total: { baseline: 1.3, volatility: 0.2 }
+
+trial_specific_criteria:
+  ecog_performance_status: 1
+  unsuitable_for_surgery_or_rfa: true
+  embolization_naive: true
+  has_measurable_tumor_on_mri: true
+  history_of_major_gi_bleed_last_2_months: true # CRITICAL: The exclusion flag
+
+event_probabilities_per_month:
+  oncology_clinic_visit: 0.5
+  # We would programmatically insert a "Hospitalization for GI Bleed" event
+  # one month before the "trial screening date" to make this story work.
+  lab_test_liver_panel: 0.5
+  imaging_mri_abdomen: 0.33

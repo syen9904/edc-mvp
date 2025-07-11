@@ -1,0 +1,21 @@
+**Discharge Summary**
+
+PATIENT: {patient_name}
+ADMISSION DATE: {admission_date}
+DISCHARGE DATE: {date}
+
+ADMISSION DIAGNOSIS:
+1. Upper GI Bleed secondary to Esophageal Varices
+
+HOSPITAL COURSE:
+The patient was admitted with hematemesis. EGD was performed which showed grade III esophageal varices with active bleeding. Successful band ligation was performed. Patient was stabilized with IV octreotide and blood transfusions. Remained hemodynamically stable post-procedure.
+
+DISCHARGE DIAGNOSIS:
+1. Resolved Upper GI Bleed
+2. Esophageal Varices
+3. {chronic_conditions}
+
+PLAN:
+1. Start Nadolol for primary prophylaxis.
+2. Follow up in GI clinic in 2 weeks.
+3. Continue HCC surveillance as outpatient.
